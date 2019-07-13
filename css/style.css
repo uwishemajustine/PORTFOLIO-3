@@ -20,10 +20,7 @@ ul {
   
   li a:hover {
     background-color: #111;
-  }
-  .img-cirle{
-    border-radius: 50%;   
-  }
+  }   
   body{
       background-image: url(https://images.unsplash.com/photo-1466074395296-41cba23ce4f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1068&q=80);
   }
@@ -59,7 +56,30 @@ ul {
     float:center;
     margin: 0 ; 
     padding: 73px; 
-    font-family:'Josefin Sans',sans-serif; 
-               
+    font-family:'Josefin Sans',sans-serif;              
   } 
-   
+  img{
+    margin-top: 10px; 
+    float: center;
+    max-width: 300px;
+    min-height: 200px;
+    min-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    width:450px;
+    height:450px;
+  }
+  .img-circle{
+      border-radius: 100%
+      
+  }
+  ol li{
+    font-size: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
