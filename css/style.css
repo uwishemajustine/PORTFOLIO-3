@@ -21,3 +21,6 @@ ul {
   li a:hover {
     background-color: #111;
   }
+  .img-cirle{
+    border-radius: 50%;   
+  }
