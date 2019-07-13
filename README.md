@@ -2,11 +2,11 @@
 ## Authors
 * UWISHEMA Justine.
 
-##Project instructions
+#Project instructions
 In order to use this project use this links:
 git clone https://github.com/uwishemajustine/PORTFOLIO-3.git
 
-##License info
+#License info
 
 MIT License
 
@@ -14,4 +14,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-copyright (c) {year} 
+copyright (c) {year} uwishemajustine
