@@ -4,6 +4,7 @@
 
 ###Project instructions
 ####In order to use this project use this links:
+This is the portfolio that i had made in github for more informantion click in the link below.
 git clone https://uwishemajustine.github.io/PORTFOLIO-3/
 
 #License info
