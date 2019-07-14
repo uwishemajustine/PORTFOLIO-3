@@ -2,9 +2,9 @@
 ## Authors
 * UWISHEMA Justine.
 
-#Project instructions
-In order to use this project use this links:
-git clone https://github.com/uwishemajustine/PORTFOLIO-3.git
+###Project instructions
+####In order to use this project use this links:
+git clone https://uwishemajustine.github.io/PORTFOLIO-3/
 
 #License info
 
@@ -14,4 +14,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-copyright (c) {year} uwishemajustine
+copyright (c) {2019} uwishemajustine
